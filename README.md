@@ -12,3 +12,15 @@ FailedPointGenerator used many other open source projects like (all used jars ar
 - [Monaco code editor](https://microsoft.github.io/monaco-editor/)
 
 # Screenshots :
+
+### Display classes :
+![alt text](https://github.com/fkorteby/FailedPointGenerator/blob/master/Classes%20display.png?raw=true "Display classes")
+
+### Methods display :
+![alt text](https://github.com/fkorteby/FailedPointGenerator/blob/master/Methods%20display.png?raw=true "Methods display")
+
+### Decompiler Preview :
+![alt text](https://github.com/fkorteby/FailedPointGenerator/blob/master/Code%20view.png?raw=true "Decompiler Preview")
+
+### Failed Point definition :
+![alt text](https://github.com/fkorteby/FailedPointGenerator/blob/master/FailedPoint%20definition.png?raw=true "Failed Point definition")
